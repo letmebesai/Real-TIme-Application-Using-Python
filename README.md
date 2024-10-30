@@ -7,4 +7,5 @@ other socioeconomic factors. This project is a practical application of
 supervised learning where the model learns from labeled data (features
 and target prices) and applies that knowledge to predict house prices for
 unseen data.
+Open to any suggestions and workforce.
 
